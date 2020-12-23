@@ -1,6 +1,6 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+My name is Ariel Di Miro, engineer and hobby photograph:
 
 Check my [LinkedIn profile](https://www.linkedin.com/in/aadimiro/)
 
