@@ -7,11 +7,11 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Ariel's AI blog
-description: Sharing experiences
+description: Sharing experiences while learning
 github_username: aadimiro
 
 # Email and twitter are optional:
-email:
+email: aaidmiro@web.de
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
