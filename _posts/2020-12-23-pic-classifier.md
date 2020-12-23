@@ -3,5 +3,6 @@
 In this first blog post, I just want to show you the photo classifier I have done with few lines of code using fastai.
 
 Go and check it here:
-[links]https://mybinder.org/v2/gh/aadimiro/pic-classifier/main?urlpath=%2Fvoila%2Frender%2Fphoto-classifier.ipynb
+[links](https://mybinder.org/v2/gh/aadimiro/pic-classifier/main?urlpath=%2Fvoila%2Frender%2Fphoto-classifier.ipynb)
+
 
